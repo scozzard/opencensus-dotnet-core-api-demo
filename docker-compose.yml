@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  http:
+    build:
+      context: ./src
+      dockerfile: Dockerfile
+      args:
+        PROJECT_NAME: Http.Api
+    container_name: http-api
+    ports:
+      - 5007:5001
+    command: sh -c "dotnet run --project /app/Http.Api/Http.Api.csproj --environment=Development --urls=http://0.0.0.0:5001"

@@ -1,0 +1,14 @@
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/bin/Release/netcoreapp2.2/Http.Api.deps.json
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/bin/Release/netcoreapp2.2/Http.Api.runtimeconfig.json
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/bin/Release/netcoreapp2.2/Http.Api.runtimeconfig.dev.json
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/bin/Release/netcoreapp2.2/Http.Api.dll
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/bin/Release/netcoreapp2.2/Http.Api.pdb
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/obj/Release/netcoreapp2.2/Http.Api.csprojAssemblyReference.cache
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/obj/Release/netcoreapp2.2/Http.Api.csproj.CoreCompileInputs.cache
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/obj/Release/netcoreapp2.2/Http.Api.RazorAssemblyInfo.cache
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/obj/Release/netcoreapp2.2/Http.Api.RazorAssemblyInfo.cs
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/obj/Release/netcoreapp2.2/Http.Api.AssemblyInfoInputs.cache
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/obj/Release/netcoreapp2.2/Http.Api.AssemblyInfo.cs
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/obj/Release/netcoreapp2.2/Http.Api.RazorTargetAssemblyInfo.cache
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/obj/Release/netcoreapp2.2/Http.Api.dll
+/Users/scottwalker/git/work/BrokenArrow/src/Http.Api/obj/Release/netcoreapp2.2/Http.Api.pdb

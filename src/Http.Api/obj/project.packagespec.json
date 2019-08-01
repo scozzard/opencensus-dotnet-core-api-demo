@@ -1,0 +1,62 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/scottwalker/git/personal/opencensus-dotnet-core-api-demo/src/Http.Api/Http.Api.csproj",
+    "projectName": "Http.Api",
+    "projectPath": "/Users/scottwalker/git/personal/opencensus-dotnet-core-api-demo/src/Http.Api/Http.Api.csproj",
+    "outputPath": "/Users/scottwalker/git/personal/opencensus-dotnet-core-api-demo/src/Http.Api/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "OpenCensus": {
+          "target": "Package",
+          "version": "[0.1.0-alpha-42253, )"
+        },
+        "OpenCensus.Exporter.Stackdriver": {
+          "target": "Package",
+          "version": "[0.1.0-alpha-42253, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
