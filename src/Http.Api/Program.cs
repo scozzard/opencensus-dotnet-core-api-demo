@@ -16,9 +16,9 @@ namespace Http.Api
             // A little hacky, but at this point you need to add a file 'creds.json to the root of the 'Http.Api' directory.
             // The cred.json file contains the login details for a user/serivce account required to access GCP stackdriver.
             // It can be generated using a gcloud command.'
-            Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", Environment.CurrentDirectory + "/creds.json");
+            Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", Environment.CurrentDirectory + "/key.json");
 
-            var projectId = "crested-bloom-231015";
+            var projectId = "healthy-books";
 
             var exporter = new StackdriverExporter(
                 projectId,

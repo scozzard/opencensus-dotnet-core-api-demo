@@ -355,3 +355,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# GCP service account key used for making gcloud commands
+key.json
