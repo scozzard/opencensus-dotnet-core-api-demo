@@ -34,7 +34,6 @@ C:\git\opencensus-dotnet-core-api-demo\src\Http.Api\bin\Debug\netcoreapp2.2\Http
 C:\git\opencensus-dotnet-core-api-demo\src\Http.Api\bin\Debug\netcoreapp2.2\Http.Api.runtimeconfig.dev.json
 C:\git\opencensus-dotnet-core-api-demo\src\Http.Api\bin\Debug\netcoreapp2.2\Http.Api.dll
 C:\git\opencensus-dotnet-core-api-demo\src\Http.Api\bin\Debug\netcoreapp2.2\Http.Api.pdb
-C:\git\opencensus-dotnet-core-api-demo\src\Http.Api\obj\Debug\netcoreapp2.2\Http.Api.csprojAssemblyReference.cache
 C:\git\opencensus-dotnet-core-api-demo\src\Http.Api\obj\Debug\netcoreapp2.2\Http.Api.csproj.CoreCompileInputs.cache
 C:\git\opencensus-dotnet-core-api-demo\src\Http.Api\obj\Debug\netcoreapp2.2\Http.Api.RazorAssemblyInfo.cache
 C:\git\opencensus-dotnet-core-api-demo\src\Http.Api\obj\Debug\netcoreapp2.2\Http.Api.RazorAssemblyInfo.cs
