@@ -23,5 +23,13 @@ This repo has been setup exclusively to test and demo pushing metrics to Stackdr
 * In the `/src/Http.Api` directory, download the credentials of your GCP project's server account:
   * e.g., `gcloud iam service-accounts keys create ~/key.json --iam-account [SA-NAME]@[PROJECT-ID].iam.gserviceaccount.com`
   * In the examples above, [SA-NAME] is the name of your service account, and [PROJECT-ID] is the ID of your Google Cloud project.
-* In the root directory, run 'docker-compose up'.
+* In the root directory, run: 
+  * `docker-compose build`, then
+  * `docker-compose up`
 * View the website on port 5007 (0.0.0.0 mac and localhost windows).
+
+### Viewing metrics on Stackdriver
+
+Go to the Stackdriver's [metrics explorer](https://console.cloud.google.com/monitoring/metrics-explorer) in the Google Cloud console, and apply the following options (metric is _opencensus_api/views/requests_):
+
+![metrics](https://i.imgur.com/QK17Odr.png)
