@@ -5,7 +5,7 @@ A simple dockerized .net core Web API set up with middleware that uses [OpenCens
 The `Http.Api` project is a Web API that has two GET endpoints - `/movies` and `actors` (and a `/healthcheck` endpoint that simply returns OK).
 
 ### Requirements
-* (.NET Core)[https://dotnet.microsoft.com/download]
+* [.NET Core](https://dotnet.microsoft.com/download)
 * [Docker Desktop](https://www.docker.com/products/docker-desktop) and [Docker Compose](https://docs.docker.com/compose/)
 * A [Google Cloud](https://cloud.google.com/) account with a default project and Stackdriver activated.
 * [The Google Cloud SDK](https://cloud.google.com/sdk/docs/quickstarts)
