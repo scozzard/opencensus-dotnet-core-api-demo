@@ -13,8 +13,8 @@ namespace Http.Api
     {
         public static void Main(string[] args)
         {
-            // A little hacky, but at this point you need to add a file 'creds.json to the root of the 'Http.Api' directory.
-            // The cred.json file contains the login details for a user/serivce account required to access GCP stackdriver.
+            // A little hacky, but at this point you need to add a file 'key.json to the root of the 'Http.Api' directory.
+            // The key.json file contains the login details for a user/serivce account required to access GCP stackdriver.
             // It can be generated using a gcloud command.'
             Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", Environment.CurrentDirectory + "/key.json");
 
