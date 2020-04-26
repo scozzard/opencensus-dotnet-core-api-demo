@@ -1,6 +1,6 @@
-# Send Web API Metrics to Stackdriver with Opencensus
+# Send Custom Metrics to Stackdriver from a .net core Web API with Opencensus
 
-A simple dockerized Web API set up with middleware that uses [OpenCensus](https://github.com/census-instrumentation/opencensus-csharp) to push custom metrics to Stackdriver with every request.
+A simple dockerized .net core Web API set up with middleware that uses [OpenCensus](https://github.com/census-instrumentation/opencensus-csharp) to push custom metrics to Stackdriver with every request.
 
 The `Http.Api` project is a Web API that has two GET endpoints - `/movies` and `actors` (and a `/healthcheck` endpoint that simply returns OK).
 
