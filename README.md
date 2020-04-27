@@ -21,7 +21,7 @@ The `Http.Api` project is a Web API that has two GET endpoints - `/movies` and `
 * In the root directory, run: 
   * `docker-compose build`, then
   * `docker-compose up`
-* View the website on port 5007 (0.0.0.0 mac and localhost windows).
+* Hit the Web API's endpoints on port 5007 (0.0.0.0 mac and localhost windows).
 
 ### Viewing metrics on Stackdriver
 
